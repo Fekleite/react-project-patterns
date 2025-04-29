@@ -2,10 +2,11 @@ terns
 
 ## Tools:
 
-| Name         | Description                          | Link                     |
-| ------------ | ------------------------------------ | ------------------------ |
-| EditorConfig | Define editor rules                  | https://EditorConfig.org |
-| ESLint       | Provides code style and syntax rules | https://eslint.org       |
+| Name         | Description         | Link                     |
+| ------------ | ------------------- | ------------------------ |
+| EditorConfig | Define editor rules | https://EditorConfig.org |
+| ESLint       | Reforces code style | https://eslint.org       |
+| Prettier     | Code formatter      | https://prettier.io/     |
 
 ## Obs:
 
