@@ -1,4 +1,6 @@
-# React Project Patterns
+# Patterns to React projects
+
+This is only a template for my personal projects.
 
 ## Tools:
 
