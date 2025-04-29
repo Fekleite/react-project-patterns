@@ -1,4 +1,4 @@
-terns
+# React Project Patterns
 
 ## Tools:
 
